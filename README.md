@@ -4,9 +4,9 @@
    <img alt="Endabelyu" src="https://readme-typing-svg.herokuapp.com/?lines=Endabelyu;Front-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endabelyu&label=Profile%20views&color=0e75b6&style=flat" alt="endabelyu" /> </p>
-
+<!-- 
 - 💬 Ask me about **HTML, CSS , Javascript, react or svelte**
-
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/endab3lyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="endab3lyu" height="30" width="40" /></a>
