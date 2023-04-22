@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Endabelyu</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-
+<h3 align="center"><a href="https://hud0shnik.github.io/">
+   <img alt="Endabelyu" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Front-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endabelyu&label=Profile%20views&color=0e75b6&style=flat" alt="endabelyu" /> </p>
 
 - 💬 Ask me about **HTML, CSS , Javascript, react or svelte**
